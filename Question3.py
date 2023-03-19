@@ -1,8 +1,6 @@
-input = "Mars Rover Manipal"
-
-
-words = input.split()
-
+print("Enter a sentence \n")
+sent =input("")
+words=sent.split()
 
 dict1 = {}
 
